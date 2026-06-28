@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/focus-timer/static/css/main.2e327ae5.css",
-    "main.js": "/focus-timer/static/js/main.41d2e897.js",
+    "main.js": "/focus-timer/static/js/main.9f06f52a.js",
     "index.html": "/focus-timer/index.html",
     "main.2e327ae5.css.map": "/focus-timer/static/css/main.2e327ae5.css.map",
-    "main.41d2e897.js.map": "/focus-timer/static/js/main.41d2e897.js.map"
+    "main.9f06f52a.js.map": "/focus-timer/static/js/main.9f06f52a.js.map"
   },
   "entrypoints": [
     "static/css/main.2e327ae5.css",
-    "static/js/main.41d2e897.js"
+    "static/js/main.9f06f52a.js"
   ]
 }
